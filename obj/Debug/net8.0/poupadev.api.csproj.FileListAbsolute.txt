@@ -1,0 +1,7 @@
+/home/wallace/Projetos/poupadev.api/obj/Debug/net8.0/poupadev.api.csproj.AssemblyReference.cache
+/home/wallace/Projetos/poupadev.api/obj/Debug/net8.0/poupadev.api.GeneratedMSBuildEditorConfig.editorconfig
+/home/wallace/Projetos/poupadev.api/obj/Debug/net8.0/poupadev.api.AssemblyInfoInputs.cache
+/home/wallace/Projetos/poupadev.api/obj/Debug/net8.0/poupadev.api.AssemblyInfo.cs
+/home/wallace/Projetos/poupadev.api/obj/Debug/net8.0/poupadev.api.csproj.CoreCompileInputs.cache
+/home/wallace/Projetos/poupadev.api/obj/Debug/net8.0/poupadev.api.MvcApplicationPartsAssemblyInfo.cs
+/home/wallace/Projetos/poupadev.api/obj/Debug/net8.0/poupadev.api.MvcApplicationPartsAssemblyInfo.cache
