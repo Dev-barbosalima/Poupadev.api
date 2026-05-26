@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1pZEK6Wznw95pn/NHAenjP0kSHrdMYwqQC8JjoxV6mI=",
+  "Source": "poupadev.api",
+  "BasePath": "_content/poupadev.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

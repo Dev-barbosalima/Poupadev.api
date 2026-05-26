@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("poupadev.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7edf6c10c5037dc1647879146d87deaa74e62e31")]
 [assembly: System.Reflection.AssemblyProductAttribute("poupadev.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("poupadev.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
